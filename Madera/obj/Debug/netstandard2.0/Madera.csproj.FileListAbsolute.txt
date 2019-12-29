@@ -1,0 +1,13 @@
+C:\Users\henri\source\repos\Madera\Madera\Madera\bin\Debug\netstandard2.0\Madera.deps.json
+C:\Users\henri\source\repos\Madera\Madera\Madera\bin\Debug\netstandard2.0\Madera.dll
+C:\Users\henri\source\repos\Madera\Madera\Madera\bin\Debug\netstandard2.0\ref\Madera.dll
+C:\Users\henri\source\repos\Madera\Madera\Madera\bin\Debug\netstandard2.0\Madera.pdb
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\Madera.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\Madera.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\Madera.AssemblyInfo.cs
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\Madera.dll
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\ref\Madera.dll
+C:\Users\henri\source\repos\Madera\Madera\Madera\obj\Debug\netstandard2.0\Madera.pdb

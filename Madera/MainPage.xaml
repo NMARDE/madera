@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Madera.MainPage">
+
+    <StackLayout BackgroundColor="#AC8F69">
+        <Label Text="Maderapp" 
+           HorizontalOptions="Center"
+           VerticalOptions="Start"
+               FontAttributes="Bold"
+               FontSize="30" TextColor="White"/>
+        <Entry Placeholder="Identifiant" HorizontalOptions="Center" VerticalOptions="EndAndExpand" WidthRequest="150" TextColor="White"/>
+        <Entry Placeholder="Mot de passe" HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="150" Margin="50" TextColor="White"/>
+        <Button Text="Connexion" HorizontalOptions="Center" VerticalOptions="EndAndExpand" BackgroundColor="White" TextColor="#AC8F69"/>
+    </StackLayout>
+
+</ContentPage>
